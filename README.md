@@ -1,0 +1,2 @@
+# aplicacoes_langchain
+.
