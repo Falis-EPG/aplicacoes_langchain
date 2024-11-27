@@ -1,0 +1,125 @@
+Manual de Uso de E-mails no Outlook
+
+---
+
+Introdução
+
+O uso de e-mails corporativos é uma ferramenta essencial para a comunicação interna e externa da empresa. A segurança e a eficiência no uso dos e-mails são fundamentais para garantir que as informações sensíveis e importantes sejam trocadas adequadamente. Este manual irá guiar você através das práticas de uso seguro e correto do e-mail no Microsoft Outlook.
+
+---
+2. Senhas de Acesso ao E-mail
+2.1 Criação e Manutenção de Senhas
+- Passo 1: O setor de TI criará uma conta de e-mail para cada colaborador, associada ao domínio da empresa. 
+- Passo 2: As senhas devem seguir a política de segurança da empresa:
+  - Mínimo de 8 caracteres.
+  - Incluir letras maiúsculas, minúsculas, números e caracteres especiais.
+
+- Passo 3: A troca de senha será exigida periodicamente.
+
+- Passo 4: Nunca compartilhe sua senha com ninguém e evite salvá-la em locais não seguros.
+
+2.2 Recuperação de Senha
+-Passo 1: Se esquecer a senha, contate o setor de TI para redefinir a senha.
+
+- Passo 2: Após receber a nova senha, será necessário trocar para uma senha pessoal no primeiro login.
+
+---
+3. Envio e Recebimento de E-mails
+3.1 Envio de E-mails
+- Passo 1: Abra o Microsoft Outlook e clique em "Novo E-mail".
+
+- Passo 2: Insira o endereço do destinatário no campo "Para". Sempre confirme se o e-mail está correto antes de enviar, especialmente em comunicações sensíveis.
+
+- Passo 3: No campo "Assunto", descreva claramente o tema do e-mail.
+
+- Passo 4: Escreva o corpo da mensagem, sendo objetivo e profissional. Use uma saudação apropriada e termine com a assinatura oficial da empresa (mais detalhes na seção **Assinaturas**).
+
+- Passo 5: Adicione anexos, se necessário, clicando no ícone de clipe de papel e selecionando o arquivo.
+
+Passo 6: Revise a mensagem e clique em "Enviar".
+
+3.2 Recebimento de E-mails
+- Passo 1: Ao receber um e-mail, verifique o remetente. Desconfie de e-mails de remetentes desconhecidos, especialmente se houver links ou anexos.
+- Passo 3: Para responder, clique em "Responder" ou "Responder a todos", dependendo de quem deve receber sua resposta.
+
+- Passo 4: Ao encaminhar um e-mail, certifique-se de que o conteúdo é adequado para o novo destinatário.
+
+3.3 Confirmação do Destinatário
+- Passo 1: Sempre confirme o endereço de e-mail do destinatário antes de enviar a mensagem. Erros no destinatário podem resultar no envio de informações confidenciais para a pessoa errada.
+
+- Passo 2: Se for necessário enviar e-mails para várias pessoas, use o campo "Cco" (cópia oculta) para proteger a privacidade dos destinatários.
+
+---
+
+4. Assinaturas de E-mails
+4.1 Criação da Assinatura Oficial
+- Passo 1: A assinatura de e-mail oficial da empresa deve seguir um padrão corporativo. A equipe de TI ou o setor de marketing fornecerá o modelo padrão que deve incluir:
+  - Nome completo.
+  - Cargo.
+  - Nome da empresa.
+  - Contato telefônico (se necessário).
+  - Endereço do site da empresa.
+
+- Passo 2: Para criar ou editar sua assinatura, vá até "Arquivo" > "Opções" > "Email" > "Assinaturas".
+
+- Passo 3: No campo de edição, insira as informações requeridas e formate-as conforme o padrão fornecido.
+
+- Passo 4: Certifique-se de que sua assinatura está sendo inserida automaticamente em todos os e-mails, clicando em "Novo E-mail" e configurando a assinatura para novos e-mails e respostas.
+
+4.2 Uso da Assinatura
+- Passo 1: A assinatura deve ser usada em todos os e-mails enviados, sejam internos ou externos, para manter a consistência e o profissionalismo da comunicação.
+
+- Passo 2: Não adicione mensagens ou slogans pessoais à assinatura oficial, salvo orientações específicas do setor de comunicação ou marketing.
+
+---
+
+5. Práticas de Segurança no Uso de E-mails
+5.1 Reconhecimento de E-mails Suspeitos
+- Passo 1: Fique atento a e-mails de remetentes desconhecidos ou e-mails não solicitados que contenham links ou anexos.
+
+- Passo 2: Nunca clique em links ou abra anexos de e-mails suspeitos sem antes confirmar a legitimidade do remetente. Use o recurso de visualização de links no Outlook para verificar URLs sem clicar.
+
+- Passo 3: Ao suspeitar de um e-mail de phishing, marque-o como spam e reporte ao setor de TI.
+
+5.2 Confidencialidade e Proteção de Informações
+- Passo 1: Nunca compartilhe informações sensíveis ou confidenciais por e-mail sem confirmação da identidade do destinatário.
+
+- Passo 2: Utilize a criptografia de e-mails para mensagens que contenham dados sigilosos ou confidenciais. Essa configuração pode ser habilitada nas opções de envio de e-mail no Outlook.
+
+---
+
+6. Gerenciamento de Caixa de Entrada
+6.1 Organização
+- Passo 1: Use pastas e regras automáticas para organizar e-mails. Por exemplo, crie pastas para diferentes projetos ou setores, e utilize as regras do Outlook para mover automaticamente mensagens para essas pastas.
+
+- Passo 2: Arquive regularmente e-mails antigos para liberar espaço e melhorar o desempenho do Outlook. Vá até "Arquivo" > "Configurações de Arquivamento".
+
+6.2 Limpeza e Exclusão
+- Passo 1: Exclua e-mails irrelevantes ou desnecessários regularmente. Use o recurso "Limpeza de Conversa" para eliminar mensagens redundantes em uma conversa.
+
+- Passo 2: Mantenha sua caixa de entrada organizada e evite acumular grandes quantidades de e-mails não lidos.
+
+---
+
+7. Resposta Automática e Agendamento de E-mails
+7.1 Respostas Automáticas (Fora do Escritório)
+- Passo 1: Para configurar uma resposta automática, vá até "Arquivo" > "Respostas Automáticas".
+
+- Passo 2: Ative as respostas automáticas e escreva uma mensagem clara indicando sua ausência e, se aplicável, o contato de outro colaborador que possa resolver assuntos urgentes.
+
+- Passo 3: Defina o período de ativação da resposta automática e clique em "Ok".
+
+7.2 Agendamento de E-mails
+- Passo 1: Para enviar um e-mail em um horário específico, redija o e-mail normalmente e vá até "Opções" > "Atrasar Entrega".
+
+- Passo 2: Defina a data e hora desejada para o envio do e-mail.
+
+- Passo 3: Clique em "Enviar". O e-mail será armazenado na caixa de saída até o horário agendado.
+
+---
+8. Suporte e Contato
+Se houver problemas no uso do e-mail ou dúvidas sobre o funcionamento do Outlook, entre em contato com o setor de TI da empresa pelo e-mail ‘ti@fertminas.com.br’
+
+---
+
+Este manual visa garantir o uso correto, seguro e eficiente dos e-mails corporativos, mantendo a confidencialidade e a integridade das comunicações da empresa.
