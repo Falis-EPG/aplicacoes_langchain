@@ -23,7 +23,7 @@ llm = ChatGoogleGenerativeAI(
     max_tokens=None,
     timeout=None,
     max_retries=2,
-    google_api_key="AIzaSyDZ0q7N_pb6I6T4G_apVUtY6mGY9yqQWnw"
+    google_api_key="GOOGLE_API_KEY"
 )
 
 response = llm.invoke(prompt)
